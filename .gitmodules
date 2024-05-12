@@ -1,0 +1,3 @@
+[submodule "hive-markets-app"]
+	path = hive-markets-app
+	url = https://github.com/tomstuart123/hive-markets-app
