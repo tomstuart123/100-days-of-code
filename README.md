@@ -11,7 +11,7 @@ May 12th, 2024.
 
 ## Secondary Rules
 1. Try and code for 1 hour a day
-2. I will cast about my progress every day -> using the hashtag /100days on Farcaster
+2. Try to cast semi-regularly about my progress -> using /100daysofcode on Farcaster
 3. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count 
 
-# See log for daily updates
+Thanks to this (https://github.com/kallaway/100-days-of-code) for inspiration and feel free to also fork their repo to start yourself
