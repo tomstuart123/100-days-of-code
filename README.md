@@ -2,6 +2,7 @@
 
 ## Main Commitment
 **I will try to push code to this repo everyday for the next 100 days.**
+
 If I don't push code due to a bug, I'll at least try to push notes as to what I've learned
 
 **
