@@ -1,7 +1,9 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-**I will push code to this repo everyday for the next 100 days.**
+**I will try to push code to this repo everyday for the next 100 days.**
+If I don't push code due to a bug, I'll at least try to push notes as to what I've learned
+
 **
 #### Start Date
 May 12th, 2024.
