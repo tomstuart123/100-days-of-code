@@ -8,3 +8,8 @@
 
 **Link to work:** pushed 
 
+### Day2
+**Today's Progress**:: I noticed yesterday that the submission period check (which was meant to be open all week), wasn't working on Sundays yesterday. I fixed it by working out that JS starts Sundays at zero (to saturday's 6) instead of Monday's at zero. Once adjusted, it worked. I then moved back to privy and specificially the 'authenticated' option. I added an IF statement
+
+
+
